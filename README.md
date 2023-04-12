@@ -1,13 +1,4 @@
-
-<img align="center" src="https://github.com/John13292/John13292/blob/main/1Hello%2C%20World!.png">
-
-Я Web разработчик и немного блогер на YouTube. Основные технологии ниже:
-
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-
-Также люблю решать задачи на CodeWars: 
-
-[![codewars](https://www.codewars.com/users/eugene13292/badges/large)](https://www.codewars.com/users/eugene13292)  
+Я .Net разработчик и немного блогер на YouTube. Основные технологии ниже:
 
 Мои профили:
 
